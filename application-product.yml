@@ -1,5 +1,0 @@
-microservices:
-  order:
-    timeout: 10
-  product:
-    timeout: 10
